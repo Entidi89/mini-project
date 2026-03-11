@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">thuc hanh</string>
+    <string-array name="room_status_array">
+        <item>Available</item>
+        <item>Rented</item>
+    </string-array>
+</resources>
